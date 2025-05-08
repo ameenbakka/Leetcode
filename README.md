@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ameenbakka/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ameenbakka/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
