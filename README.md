@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ameenbakka/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/ameenbakka/Leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
