@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ameenbakka/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ameenbakka/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ameenbakka/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ameenbakka/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
@@ -26,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ameenbakka/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ameenbakka/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 <!---LeetCode Topics End-->
