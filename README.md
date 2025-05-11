@@ -38,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/ameenbakka/Leetcode/tree/master/0577-employee-bonus) |
+| [0596-classes-more-than-5-students](https://github.com/ameenbakka/Leetcode/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
