@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ameenbakka/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ameenbakka/Leetcode/tree/master/0029-divide-two-integers) |
 | [1635-number-of-good-pairs](https://github.com/ameenbakka/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2383-add-two-integers](https://github.com/ameenbakka/Leetcode/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
