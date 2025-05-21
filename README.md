@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/ameenbakka/Leetcode/tree/master/0577-employee-bonus) |
 | [0596-classes-more-than-5-students](https://github.com/ameenbakka/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/ameenbakka/Leetcode/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/ameenbakka/Leetcode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/ameenbakka/Leetcode/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/ameenbakka/Leetcode/tree/master/1390-average-selling-price) |
 | [1877-find-followers-count](https://github.com/ameenbakka/Leetcode/tree/master/1877-find-followers-count) |
