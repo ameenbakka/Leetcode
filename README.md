@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/ameenbakka/Leetcode/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/ameenbakka/Leetcode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ameenbakka/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1827-invalid-tweets](https://github.com/ameenbakka/Leetcode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/ameenbakka/Leetcode/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ameenbakka/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bit Manipulation
