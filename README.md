@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ameenbakka/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/ameenbakka/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ameenbakka/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2058-concatenation-of-array](https://github.com/ameenbakka/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ameenbakka/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ameenbakka/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ameenbakka/Leetcode/tree/master/0948-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ameenbakka/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
