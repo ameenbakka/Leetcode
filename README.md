@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ameenbakka/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/ameenbakka/Leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ameenbakka/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ameenbakka/Leetcode/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/ameenbakka/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ameenbakka/Leetcode/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/ameenbakka/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/ameenbakka/Leetcode/tree/master/2383-add-two-integers) |
