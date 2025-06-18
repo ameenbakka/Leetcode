@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ameenbakka/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ameenbakka/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ameenbakka/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ameenbakka/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ameenbakka/Leetcode/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/ameenbakka/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ameenbakka/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ameenbakka/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ameenbakka/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ameenbakka/Leetcode/tree/master/0231-power-of-two) |
 ## Sorting
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ameenbakka/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ameenbakka/Leetcode/tree/master/0125-valid-palindrome) |
 ## Heap (Priority Queue)
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ameenbakka/Leetcode/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/ameenbakka/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Recursion
 |  |
