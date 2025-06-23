@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ameenbakka/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ameenbakka/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ameenbakka/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ameenbakka/Leetcode/tree/master/0125-valid-palindrome) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ameenbakka/Leetcode/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ameenbakka/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
