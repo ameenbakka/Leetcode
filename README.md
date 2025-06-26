@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ameenbakka/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ameenbakka/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ameenbakka/Leetcode/tree/master/0125-valid-palindrome) |
+| [3447-clear-digits](https://github.com/ameenbakka/Leetcode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ameenbakka/Leetcode/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/ameenbakka/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/ameenbakka/Leetcode/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ameenbakka/Leetcode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/ameenbakka/Leetcode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
